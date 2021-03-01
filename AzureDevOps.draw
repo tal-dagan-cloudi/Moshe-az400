@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T11:19:41.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="oS0XbmxwnceP00skBX1-" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-01T14:40:31.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="XdzG3eiETTP3KXolAkVt" version="14.4.3" type="github">
   <diagram id="jc3dpqZHjX-8mqLaP0qm" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,13 +73,13 @@
         <mxCell id="Tl1LzD9zzCK69FFJXh_v-18" value="Pipeline AzureDevops / Jenkins etc...." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="700" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Tl1LzD9zzCK69FFJXh_v-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Tl1LzD9zzCK69FFJXh_v-20" edge="1">
+        <mxCell id="Tl1LzD9zzCK69FFJXh_v-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.077;entryY=1.032;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Tl1LzD9zzCK69FFJXh_v-20" edge="1" target="Tl1LzD9zzCK69FFJXh_v-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="195" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tl1LzD9zzCK69FFJXh_v-20" value="Developer&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;opacity=40;" parent="1" vertex="1">
-          <mxGeometry x="180" y="840" width="30" height="60" as="geometry" />
+          <mxGeometry x="182" y="840" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl1LzD9zzCK69FFJXh_v-22" value="Commit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="810" width="60" height="20" as="geometry" />
