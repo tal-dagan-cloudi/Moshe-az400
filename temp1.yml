@@ -29,4 +29,4 @@ jobs:
 - job: C
   dependsOn: B
   steps:
-    - script: echo "Hello, $(name)"
+    - script: echo "The Password is, $(password)"
